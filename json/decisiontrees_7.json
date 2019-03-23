@@ -1,0 +1,1302 @@
+{
+    "Head": {
+      "What symptoms are present?" : {
+        "Short Mandibular Ramus with Underdeveloped Condyles" : {
+          "Is it combined with enlarged bone epiphyses?" : {
+            "Yes" : {
+              "diagnosis" : "Juvenile Idiopathic Arthritis",
+              "description" : "~ Refers to any arthritis developed before the age of 16 <br/> ~ Joints commonly affected: Knees, Wrists, Ankles, Cervical Vertebrae, and Mandible <br/> ~ Leads to the premature closure and subsequent enlargement of epiphyses"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "Excessive Tooth Wear" : {
+          "Is it combined with the eburnation of the temporo-mandibular joint, marginal osteophytes, new bone formation, or pitting?" : {
+            "Yes" : {
+              "diagnosis" : "Osteoarthritis of the Temporo-Mandibular Joint",
+              "description" : "~ Very Common <br/> ~ May be erosive, but ankylosis rarely occurs <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "Eburnation" : {
+          "Where is the eburnation located?" : {
+            "Temporo-Mandibular Joint" : {
+              "diagnosis" : "Osteoarthritis of the Temporo-Mandibular Joint",
+              "description" : "~ Very Common <br/> ~ May be erosive, but ankylosis rarely occurs <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            },
+            "Occipital Condyles" : {
+              "diagnosis" : "Osteoarthritis of the Spine",
+              "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            }
+          }
+        },
+        "Marginal Osteophytes" : {
+          "Are they combined with eburnation, new bone formation, or pitting?" : {
+            "Yes" : {
+              "Where is it located?" : {
+                "Temporo-Mandibular Joint" : {
+                  "diagnosis" : "Osteoarthritis of the Temporo-Mandibular Joint",
+                  "description" : "~ Very Common <br/> ~ May be erosive, but ankylosis rarely occurs <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                },
+                "Occipital Condyles" : {
+                  "diagnosis" : "Osteoarthritis of the Spine",
+                  "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                }
+              }
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "New Bone Formation" : {
+          "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+            "Yes" : {
+              "Where is it located?" : {
+                "Temporo-Mandibular Joint" : {
+                  "diagnosis" : "Osteoarthritis of the Temporo-Mandibular Joint",
+                  "description" : "~ Very Common <br/> ~ May be erosive, but ankylosis rarely occurs <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                },
+                "Occipital Condyles" : {
+                  "diagnosis" : "Osteoarthritis of the Spine",
+                  "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                }
+              }
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "Pitting" : {
+          "Is it combined with eburnation, marginal osteophytes, or new bone  formation?" : {
+            "Yes" : {
+              "Where is it located?" : {
+                "Temporo-Mandibular Joint" : {
+                  "diagnosis" : "Osteoarthritis of the Temporo-Mandibular Joint",
+                  "description" : "~ Very Common <br/> ~ May be erosive, but ankylosis rarely occurs <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                },
+                "Occipital Condyles" : {
+                  "diagnosis" : "Osteoarthritis of the Spine",
+                  "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                }
+              }
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "Ankylosis" : {
+          "Is it in proximity to abscesses or fistulae?" : {
+            "Yes" : {
+              "diagnosis" : "Septic Arthritis",
+              "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        }
+      }
+    },
+    "SternumRibs": {
+      "What symptoms are present?" : {
+        "Eburnation" : {
+          "Is it located in the sterno-clavicular joint?" : {
+            "Yes" : {
+              "diagnosis" : "Osteoarthritis of the Sterno-Clavicular Joint",
+              "description" : "~ Uncommon <br/> ~ If it does occur, changes are slight <br/> ~ Affects more men than women <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "Marginal Osteophytes" : {
+          "Are they combined with eburnation, new bone formation, or pitting?" : {
+            "Yes" : {
+              "Is it located in the sterno-clavicular joint?" : {
+                "Yes" : {
+                  "diagnosis" : "Osteoarthritis of the Sterno-Clavicular Joint Joint",
+                  "description" : "~ Uncommon <br/> ~ If it does occur, changes are slight <br/> ~ Affects more men than women <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                },
+                "No" : {
+                  "diagnosis" : "Unknown",
+                  "description" : "Check for Additional Symptoms"
+                }
+              }
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "New Bone Formation" : {
+          "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+            "Yes" : {
+              "Is it located in the sterno-clavicular joint?" : {
+                "Yes" : {
+                  "diagnosis" : "Osteoarthritis of the Sterno-Clavicular Joint Joint",
+                  "description" : "~ Uncommon <br/> ~ If it does occur, changes are slight <br/> ~ Affects more men than women <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                },
+                "No" : {
+                  "diagnosis" : "Unknown",
+                  "description" : "Check for Additional Symptoms"
+                }
+              }
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "Pitting" : {
+          "Is it combined with eburnation, marginal osteophytes, or new bone formation?" : {
+            "Yes" : {
+              "Is it located in the sterno-clavicular joint?" : {
+                "Yes" : {
+                  "diagnosis" : "Osteoarthritis of the Sterno-Clavicular Joint Joint",
+                  "description" : "~ Uncommon <br/> ~ If it does occur, changes are slight <br/> ~ Affects more men than women <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                },
+                "No" : {
+                  "diagnosis" : "Unknown",
+                  "description" : "Check for Additional Symptoms"
+                }
+              }
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        },
+        "Ankylosis" : {
+          "Is it in proximity to abscesses or fistulae?" : {
+           "Yes" : {
+              "diagnosis" : "Septic Arthritis",
+              "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+            },
+            "No" : {
+                "Are the vertebrae and both sacroiliac joints fused together with no 'skip' lesions?" : {
+                  "Yes" : {
+                    "diagnosis" : "Ankylosing Spondylitis (or Enteropathic Arthropathy",
+                    "description" : "~ Also referred to as Bechterew's disease, HLA-27 Spondyloarthropathy, Marie-Strumpell disease, bamboo spine, poker spine, Ankylopoietic Spondylitis, and Rheumatoid Spondylitis <br/> ~ More severe in males <br/> ~ Affects more males than females <br/> ~ Symmetrical pathological changes <br/> ~ Vertebral ligaments and both sacroiliac joints become fused and ossify <br/> ~ Vertebral bodies become 'squared' <br/> ~ Spinal fusion begins in the lower lumbar region and progresses upwards with no spared vertebrae, or no 'skip' lesions"
+                  },
+                  "No" : {
+                    "diagnosis" :
+                    "Unknown",
+                    "description" : "Check for Additional Symptoms"
+                  }
+                }
+            }
+          }
+        }
+      }
+    },
+    "Spine": {
+      "What symptoms are present?" : {
+         "Pitting on Surface of Vertebral Body" : {
+          "Is pitting limited to the superior or inferior surface of the vertebral body?" : {
+            "Yes" : {
+              "diagnosis" : "Intervertebral Disc Disease",
+              "description" : "~ Includes the presence of pitting on either the superior or inferior surfaces of vertebral bodies, marginal osteophytes, and possible ankylosis <br/> ~ Most common where vertebrae are flexed: C5-C6, T8-T9, and L4-L5"
+            },
+            "No" : {
+              "Is it combined with eburnation on the articulating facets, marginal osteophytes, or new bone formation?" : {
+                "Yes" : {
+                  "diagnosis" : "Osteoarthritis of the Spine",
+                  "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                },
+                "No" : {
+                  "diagnosis" :
+                  "Unknown",
+                  "description" : "Check for Additional Symptoms"
+                }
+              }
+            }
+          }
+         },
+        "Marginal Osteophytes" : {
+            "Is pitting limited to the superior or inferior surface of the vertebral body?" : {
+            "Yes" : {
+              "diagnosis" : "Intervertebral Disc Disease",
+              "description" : "~ Includes the presence of pitting on either the superior or inferior surfaces of vertebral bodies, marginal osteophytes, and possible ankylosis <br/> ~ Most common where vertebrae are flexed: C5-C6, T8-T9, and L4-L5"
+            },
+            "No" : {
+              "Is it combined with eburnation on the articulating facets, marginal osteophytes, or new bone formation?" : {
+                "Yes" : {
+                  "diagnosis" : "Osteoarthritis of the Spine",
+                  "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                },
+                "No" : {
+                  "diagnosis" :
+                  "Unknown",
+                  "description" : "Check for Additional Symptoms"
+                }
+              }
+            }
+          }
+        },
+        "Ankylosis" : {
+            "Is it in proximity to abscesses or fistulae?" : {
+              "Yes" : {
+                "diagnosis" :
+                "Septic Arthritis",
+                "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+              },
+              "No" : {
+                "Is it combined with eburnation on the articulating facets, marginal osteophytes, or new bone formation?" : {
+                  "Yes" : {
+                    "diagnosis" :
+                    "Osteoarthritis of the Spine",
+                    "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                  },
+                  "No" : {
+                    "Are there 'skip' lesions present?" : {
+                      "Yes" : {
+                        "Are there erosions on the hands or feet?" : {
+                          "Yes" : {
+                            "Is there resorption of the distal phalanges?" : {
+                              "Yes" : {
+                               "diagnosis" :
+                                "Psoriatic Arthropathy",
+                                "description" : "~ Both sexes are equally affected <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with 'skip' lesions, erosions, or dips, of hands or feet with tufttal resorption in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar, and fusion extends upwards with 'skip' lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+                              },
+                                "No" : {
+                              "diagnosis" :
+                              "Reactive Spondyloarthropathy",
+                              "description" : "~ 90% of affected individuals are males <br/> ~ Primarily affects the lower limb <br/> Most common precipitating event is an infection with campylobacter, chlamydia, clostridium, salmonella, shigella, or yersinia species <br/> ~ Includes asymmetrical fusion of one or both sacroiliac joints, spinal fusion with paravertebral bridging and 'skip' lesions, asymmetric erosions of small joints of the feet, and possible proliferation of new bone <br/> ~ Calcaneal spurs and new bone formation on the Achilles tendon insertion are common"
+                            }
+                          }
+                          },
+                          "No" : {
+                            "diagnosis" :
+                            "Unknown",
+                            "description" : "Check for Additional Symptoms"
+                          }
+                          }
+                        },
+					  "No" : {
+					  "Is there continuous fusion on at least four vertebrae along the anterolateral surface?" : {
+						"Yes" : {
+							"diagnosis" :
+							"Diffuse Idiopathic Skeletal Hyperostosis",
+							"description" : "~ Includes fusion along at least 4 continuous thoracic vertebrae on the anterolateral surface that takes on a flowing, melted, candlewax appearance <br/> ~ Space between vertebral discs is preserved <br/> ~ Can also include bony entheses, or muscular attachments on the ischial tuberosity, iliac crest, pubic symphysis, trochanters, patella, femoral linea aspera, Achilles tendon, and calcaneus"
+							},
+						"No" : {
+							"diagnosis" :
+							"Ankylosing Spondylitis (or Enteropathic Arthropathy)",
+							"description" : "~ Also referred to as Bechterew's disease, HLA-27 Spondyloarthropathy, Marie-Strumpell disease, bamboo spine, poker spine, Ankylopoietic Spondylitis, and Rheumatoid Spondylitis <br/> ~ More severe in males <br/> ~ Affects more males than females <br/> ~ Symmetrical pathological changes <br/> ~ Vertebral ligaments and both sacroiliac joints become fused and ossify <br/> ~ Vertebral bodies become 'squared' <br/> ~ Spinal fusion begins in the lower lumbar region and progresses upwards with no spared vertebrae, or no 'skip' lesions"
+							}
+					  }
+					  }
+        }
+      }
+    }
+  }
+}
+},
+"Premature Epiphyseal Closure/Enlarged Epiphyses" : {
+  "Is it combined with a short mandibular ramus with underdeveloped condyles?": {
+    "Yes" : {
+      "diagnosis" :
+      "Juvenile Idiopathic Arthritis",
+      "description" : "~ Refers to any arthritis developed before the age of 16 <br/> ~ Joints commonly affected: Knees, Wrists, Ankles, Cervical Vertebrae, and Mandible <br/> ~ Leads to the premature closure and subsequent enlargement of epiphyses"
+    },
+    "No" : {
+      "diagnosis" :
+      "Unknown",
+      "description" :
+      "Check for Additional Symptoms"
+    }
+  }
+},
+"Eburnation on Articular Facets" : {
+  "diagnosis" :
+  "Osteoarthritis of the Spine",
+  "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+},
+"New Bone Formation" : {
+  "Is there ankylosis of the vertebrae and sacroiliac joint?" : {
+    "Yes" : {
+      "diagnosis" :
+      "Psoriatic Arthropathy",
+      "description" : "~ Both sexes are equally affected <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with 'skip' lesions, erosions, or dips, of hands or feet with tufttal resorption in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar, and fusion extends upwards with 'skip' lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+    },
+    "No" : {
+      "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+        "Yes" : {
+          "diagnosis" : 
+          "Osteoarthritis of the Spine",
+          "description" : "~ Solely affects the articularing facets of the spine <br/> ~ Particularly affects the cervical and lumbar regions <br/> ~ Thoracic region can be affected in females <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : {
+          "diagnosis" :
+          "Unknown",
+          "description" : "Check for Additional Symptoms"
+        }
+      }
+    }
+  }
+},
+"Erosive Lesions" : {
+  "Are there erosive lesions also on the hands and feet?" : {
+    "Yes" : {
+      "Is there ankylosis of the sacroiliac joint and the vertebrae with 'skip' lesions?" : {
+        "Yes" : {
+          "diagnosis" :
+          "Psoriatic Arthropathy",
+          "description" : "~ Both sexes are equally affected <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with 'skip' lesions, erosions, or dips, of hands or feet with tufttal resorption in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar, and fusion extends upwards with 'skip' lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+        },
+        "No" : {
+          "diagnosis" :
+          "Rheumatoid Arthritis",
+          "description" : "~ Affects women more than men <br/> ~ Occurs in the proximal joints of the hands and feet, appearing first in the feet and then in the hands <br/> ~ Can spread from the hands and feet to the wrist, elbow, hip, knee, ankle, acromioclavicular joint, and spine <br/> ~ Includes symmetrical marginal erosions of hands and feet, sparing of the sacroiliac joints, and no spinal ankylosis <br/> ~ If the hands and feet are not present, disease can't be diagnosed with any certainty"
+        }
+      }
+    },
+      "No" : {
+        "diagnosis" :
+        "Unknown", 
+        "description" : "Check for Additional Symptoms"
+      }
+    }
+  },
+  "Impression on Surface of Vertebral Body" : {
+    "diagnosis" : 
+    "Schmorl's Node",
+    "description" : "~ Extremely common, especially in the lower thoracic and lumbar vertebrae <br/> ~ If placed anteriorly and very large, they can cause angular kyphosis, referred to as Scheuermann's disease"
+  },
+  "'Squared' Vertebral Body" : {
+    "Is it combined with spinal ankylosis with no 'skip' lesions?" : {
+      "Yes" : {
+        "diagnosis" :
+        "Ankylosing Spondylitis (or Enteropathic Arthropathy)",
+        "description" : "~ Also referred to as Bechterew's disease, HLA-27 Spondyloarthropathy, Marie-Strumpell disease, bamboo spine, poker spine, Ankylopoietic Spondylitis, and Rheumatoid Spondylitis <br/> ~ More severe in males <br/> ~ Affects more males than females <br/> ~ Symmetrical pathological changes <br/> ~ Vertebral ligaments and both sacroiliac joints become fused and ossify <br/> ~ Vertebral bodies become 'squared' <br/> ~ Spinal fusion begins in the lower lumbar region and progresses upwards with no spared vertebrae, or no 'skip' lesions"
+      },
+      "No" : {
+        "diagnosis" : 
+        "Unknown",
+        "description" : "Check for Additional Symptoms"
+      }
+    }
+  }
+}
+},
+"Shoulder" : {
+  "What symptoms are present?" : {
+    "Eburnation" : {
+      "Where is it located?" : {
+        "Gleno-Humeral Joint" : {
+          "Is there pitting on the rotator cuff muscle insertion?" : {
+            "Yes" : {
+              "diagnosis" :
+              "Rotator Cuff Disease",
+              "description" : "~ Often can cause or include osteoarthritis of the acromio-clavicular joint <br/> ~ Extremely common, especially in the elderly"
+            },
+            "No" : {
+              "diagnosis" :
+              "Osteoarthritis of the Shoulder",
+              "description" : "~ Uncommon in the absence of local trauma <br/> ~ If it does occur, more often affects women than men <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            }
+          }
+        },
+        "Acromio-Clavicular Joint" : {
+          "Is there pitting on the rotator cuff muscle insertion?" : {
+            "Yes" : {
+              "diagnosis" :
+              "Rotator Cuff Disease",
+              "description" : "~ Often can cause or include osteoarthritis of the acromio-clavicular joint <br/> ~ Extremely common, especially in the elderly"
+            },
+            "No" : {
+              "diagnosis" :
+              "Osteoarthritis of the Acromio-Clavicular Joint",
+              "description" : "Often found in association with rotator cuff disease <br/> ~ Extremely common, especially in the elderly"
+            }
+          }
+        }
+      }
+    },
+    "Marginal Osteophytes" : {
+      "Is it combined with eburnation, new bone formation, or pitting?" : {
+        "Yes" : {
+          "Where is it located?" : {
+            "Gleno-Humeral Joint" : {
+              "Is there pitting on the rotator cuff muscle insertion?" : {
+            "Yes" : {
+              "diagnosis" :
+              "Rotator Cuff Disease",
+              "description" : "~ Often can cause or include osteoarthritis of the acromio-clavicular joint <br/> ~ Extremely common, especially in the elderly"
+            },
+            "No" : {
+              "diagnosis" :
+              "Osteoarthritis of the Shoulder",
+              "description" : "~ Uncommon in the absence of local trauma <br/> ~ If it does occur, more often affects women than men <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            }
+          }
+        },
+        "Acromio-Clavicular Joint" : {
+          "Is there pitting on the rotator cuff muscle insertion?" : {
+            "Yes" : {
+              "diagnosis" :
+              "Rotator Cuff Disease",
+              "description" : "~ Often can cause or include osteoarthritis of the acromio-clavicular joint <br/> ~ Extremely common, especially in the elderly"
+            },
+            "No" : {
+              "diagnosis" :
+              "Osteoarthritis of the Acromio-Clavicular Joint",
+              "description" : "Often found in association with rotator cuff disease <br/> ~ Extremely common, especially in the elderly"
+        }
+          }
+        }
+      }
+    },
+    "No" : {
+      "diagnosis" :
+      "Unknown",
+      "description" : "Check for Additional Symptoms"
+    }
+  }
+    },
+  "New Bone Formation" : {
+    "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+      "Yes" : {
+        "Where is it located?" : {
+          "Gleno-Humeral Joint" : {
+            "Is there pitting on the rotator cuff muscle insertion?" : {
+            "Yes" : {
+              "diagnosis" :
+              "Rotator Cuff Disease",
+              "description" : "~ Often can cause or include osteoarthritis of the acromio-clavicular joint <br/> ~ Extremely common, especially in the elderly"
+            },
+            "No" : {
+              "diagnosis" :
+              "Osteoarthritis of the Shoulder",
+              "description" : "~ Uncommon in the absence of local trauma <br/> ~ If it does occur, more often affects women than men <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+          }
+        }
+      },
+      "Acromio-Clavicular Joint" : {
+        "Is there pitting on the rotator cuff muscle insertion?" : {
+            "Yes" : {
+              "diagnosis" :
+              "Rotator Cuff Disease",
+              "description" : "~ Often can cause or include osteoarthritis of the acromio-clavicular joint <br/> ~ Extremely common, especially in the elderly"
+            },
+            "No" : {
+              "diagnosis" :
+              "Osteoarthritis of the Acromio-Clavicular Joint",
+              "description" : "Often found in association with rotator cuff disease <br/> ~ Extremely common, especially in the elderly"
+      }
+    }
+  }
+}
+},
+"No" : {
+  "diagnosis":
+  "Unknown",
+  "description" : "Check for Additional Symptoms"
+}
+}
+},
+"Pitting" : {
+  "Is there pitting on the rotator cuff muscle insertion?" : {
+    "Yes" : {
+      "diagnosis" :
+      "Rotator Cuff Disease",
+      "description" : "~ Often can cause or include osteoarthritis of the acromio-clavicular joint <br/> ~ Extremely common, especially in the elderly"
+    },
+    "No" : {
+      "Is it combined with eburnation, marginal osteophytes, or new bone formation?" : {
+        "Yes" : {
+          "Where is it located?" : {
+            "Gleno-Humeral Joint" : {
+              "diagnosis" : 
+              "Osteoarthritis of the Shoulder",
+              "description" : "~ Uncommon in the absence of local trauma <br/> ~ If it does occur, more often affects women than men <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            },
+            "Acromio-Clavicular Joint" : {
+              "diagnosis" :
+              "Osteoarthritis of the Acromio-Clavicular Joint",
+              "description" : "Often found in association with rotator cuff disease <br/> ~ Extremely common, especially in the elderly"
+            }
+          }
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+          "description" : "Check for Additional Symptoms"
+        }
+      }
+    }
+  }
+},
+  "Subchondral Bone Defect" : {
+    "diagnosis" : "Osteochondritis Dissecans",
+    "description" : " ~ Defect in subchondral bone will generally march its articularing partner <br/> ~ Peak age of onset is between 15 and 20 <br/> ~ More common in males <br/> ~ Most common sites are the distal medial femoral condyle, the humeral compartment of the humeroradial joint, and on the dome of the talus <br/> ~ Occurs only on convex joint surfaces; if it is on a concave surface, it is referred to as osteochondritis non-dissecans"
+  },
+  "Bone Resorption" : {
+    "diagnosis" : "Neuropathic Arthropathy",
+    "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+  },
+  "Erosive Lesions" : {
+    "Are there also erosive lesions on the hands or feet?" : {
+      "Yes" : {
+        "diagnosis" : "Rheumatoid Arthritis",
+        "description" : "~ Affects women more than men <br/> ~ Occurs in the proximal joints of the hands and feet, appearing first in the feet and then in the hands <br/> ~ Can spread from the hands and feet to the wrist, elbow, hip, knee, ankle, acromioclavicular joint, and spine <br/> ~ Includes symmetrical marginal erosions of hands and feet, sparing of the sacroiliac joints, and no spinal ankylosis <br/> ~ If the hands and feet are not present, disease can't be diagnosed with any certainty"
+      },
+      "No" : {
+        "diagnosis" : "Unknown",
+        "description" : "Check for Additional Symptoms"
+      }
+    }
+  },
+  "Ankylosis" : {
+    "Is it in proximity to abscesses or fistulae?" : {
+      "Yes" : {
+        "diagnosis" : "Septic Arthritis",
+        "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+      },
+      "No" : {
+        "Is there also extensive bone resorption?" : {
+          "Yes" : {
+            "diagnosis" : "Neuropathic Arthropathy",
+            "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+          },
+          "No" : {
+            "diagnosis" : "Unknown",
+            "description" : "Check for Additional Symptoms"
+          }
+        }
+      }
+  }
+}
+}
+},
+"Elbow" : {
+  "What symptoms are present?" : {
+    "Eburnation" : {
+      "diagnosis" : "Osteoarthritis of the Elbow",
+      "description" : " ~ Very rare if no trauma present <br/> ~ Has been found in some occupational groups <br/> ~ Right arm is more affected than the left <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+    },
+    "Marginal Osteophytes" : {
+      "Are they combined with eburnation, new bone formation, or pitting?" : {
+        "Yes" : {
+          "diagnosis" : "Osteoarthritis of the Elbow",
+          "description" : " ~ Very rare if no trauma present <br/> ~ Has been found in some occupational groups <br/> ~ Right arm is more affected than the left <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+          "description" : "Check for Additional Symptoms"
+        }
+      }
+    },
+    "New Bone Formation" : {
+      "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+        "Yes" : {
+          "diagnosis" : "Osteoarthritis of the Elbow",
+          "description" : " ~ Very rare if no trauma present <br/> ~ Has been found in some occupational groups <br/> ~ Right arm is more affected than the left <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+          "description" : "Check for Additional Symptoms"
+    }
+  }
+},
+"Pitting" : {
+  "Is it combined with eburnation, marginal osteophytes, or new bone formation?" : {
+        "Yes" : {
+          "diagnosis" : "Osteoarthritis of the Elbow",
+          "description" : " ~ Very rare if no trauma present <br/> ~ Has been found in some occupational groups <br/> ~ Right arm is more affected than the left <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+          "description" : "Check for Additional Symptoms"
+}
+}
+},
+"Bone Resorption" : {
+  "diagnosis" : "Neuropathic Arthropathy",
+  "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+},
+"Ankylosis" : {
+  "Is it in proximity to abscesses or fistulae?" : {
+    "Yes" : {
+      "diagnosis" : "Septic Arthritis",
+        "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+    },
+    "No" : {
+      "Is it combined with extensive bone resorption?" : {
+        "Yes" : {
+          "diagnosis" : "Neuropathic Arthropathy",
+          "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+          "description" : "Check for Additional Symptoms"
+        }
+      }
+    }
+  }
+},
+"Erosive Lesions" : {
+  "Are there also erosive lesions on the hands or feet?" : {
+    "Yes" : {
+      "diagnosis" : "Rheumatoid Arthritis",
+      "description" : "~ Affects women more than men <br/> ~ Occurs in the proximal joints of the hands and feet, appearing first in the feet and then in the hands <br/> ~ Can spread from the hands and feet to the wrist, elbow, hip, knee, ankle, acromioclavicular joint, and spine <br/> ~ Includes symmetrical marginal erosions of hands and feet, sparing of the sacroiliac joints, and no spinal ankylosis <br/> ~ If the hands and feet are not present, disease can't be diagnosed with any certainty"
+    },
+    "No" : {
+      "diagnosis" : "Unknown",
+      "description" : "Check for Additional Symptoms"
+    }
+  }
+}
+}
+},
+"WristHand" : {
+  "What symptoms are present?" : {
+    "Eburnation" : {
+      "Is it combined with osteophytes on distal sides of interphalangeal joints?" : {
+        "Yes" : {
+          "diagnosis" : "Erosive Osteoarthritis",
+          "description" : " ~ Mostly exclusive to women of middle-to-late age <br/> ~ Affects 4-15% of individuals with proliferative osteoarthritis of the hand <br/> ~ Includes eburnation of the hand, presence of osteophytes on distal sides ('gull-wing' deformity) of interphalangeal joints, and eroded center of interphalangeal joint ('saw-tooth' lesions)"
+        },
+        "No" : {
+          "Where is it located?" : {
+            "Metacarpals/Phalanges" : {
+              "diagnosis" : "Osteoarthritis of the Hand",
+              "description" : " ~ Thumb base is extremely common site as well as the distal and proximal interphalangeal joints <br/> ~ If the metacarpophalangeal (MCP) joints are affected, then the first 3 will bear the brunt of the disease <br/> ~ May be secondary to trauma <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            },
+            "Carpals" : {
+              "diagnosis" : "Osteoarthritis of the Wrist",
+                "description" : " ~ Wrist joint (the joint between the radius, the lunate, and the scaphoid) is commonly affected <br/> ~ The carpals on the radius side of the hand are often more affected than the ulnar side, with the trapezium often described as being at the center of osteoarthritic changes <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+              }
+            }
+          }
+        }
+      },
+      "Marginal Osteophytes" : {
+        "Is it combined with osteophytes on distal sides of interphalangeal joints?" : {
+        "Yes" : {
+          "diagnosis" : "Erosive Osteoarthritis",
+          "description" : " ~ Mostly exclusive to women of middle-to-late age <br/> ~ Affects 4-15% of individuals with proliferative osteoarthritis of the hand <br/> ~ Includes eburnation of the hand, presence of osteophytes on distal sides ('gull-wing' deformity) of interphalangeal joints, and eroded center of interphalangeal joint ('saw-tooth' lesions)"
+        },
+        "No" : {
+          "Is it combined with eburnation, new bone formation, or pitting?" : {
+            "Yes" : {
+              "Where is it located?" : {
+            "Metacarpals/Phalanges" : {
+              "diagnosis" : "Osteoarthritis of the Hand",
+              "description" : " ~ Thumb base is extremely common site as well as the distal and proximal interphalangeal joints <br/> ~ If the metacarpophalangeal (MCP) joints are affected, then the first 3 will bear the brunt of the disease <br/> ~ May be secondary to trauma <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            },
+            "Carpals" : {
+              "diagnosis" : "Osteoarthritis of the Wrist",
+                "description" : " ~ Wrist joint (the joint between the radius, the lunate, and the scaphoid) is commonly affected <br/> ~ The carpals on the radius side of the hand are often more affected than the ulnar side, with the trapezium often described as being at the center of osteoarthritic changes <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            }
+          }
+      },
+      "No" : {
+        "diagnosis" : "Unknown",
+        "description" : "Check for Additional Symptoms"
+      }
+    }
+  }
+  }
+},
+"New Bone Formation" : {
+  "Is it combined with sacroiliitis, spinal ankylosis, and erosive lesions on the hand?" : {
+    "Yes" : {
+      "diagnosis" : "Psoriatic Arthropathy",
+      "description" : "~ Both sexes are affected equally <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with skip lesions, erosions of dips of hands or feet with tufttal resoprtion in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar and fusion extends upwards with skip lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+    },
+    "No" : {
+      "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+        "Yes" : {
+          "Where is it located?" : {
+            "Metacarpals/Phalanges" : {
+              "diagnosis" : "Osteoarthritis of the Hand",
+              "description" : " ~ Thumb base is extremely common site as well as the distal and proximal interphalangeal joints <br/> ~ If the metacarpophalangeal (MCP) joints are affected, then the first 3 will bear the brunt of the disease <br/> ~ May be secondary to trauma <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            },
+            "Carpals" : {
+              "diagnosis" : "Osteoarthritis of the Wrist",
+                "description" : " ~ Wrist joint (the joint between the radius, the lunate, and the scaphoid) is commonly affected <br/> ~ The carpals on the radius side of the hand are often more affected than the ulnar side, with the trapezium often described as being at the center of osteoarthritic changes <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        }
+      }
+    },
+    "No" : {
+      "diagnosis" : "Unknown",
+      "description" : "Check for Additional Symptoms"
+    }
+  }
+}
+}
+},
+"Pitting" : {
+  "Is it combined with eburnation, new bone formation, or marginal osteophytes?" : {
+    "Yes" : {
+      "Where is it located?" : {
+            "Metacarpals/Phalanges" : {
+              "diagnosis" : "Osteoarthritis of the Hand",
+              "description" : " ~ Thumb base is extremely common site as well as the distal and proximal interphalangeal joints <br/> ~ If the metacarpophalangeal (MCP) joints are affected, then the first 3 will bear the brunt of the disease <br/> ~ May be secondary to trauma <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+            },
+            "Carpals" : {
+              "diagnosis" : "Osteoarthritis of the Wrist",
+                "description" : " ~ Wrist joint (the joint between the radius, the lunate, and the scaphoid) is commonly affected <br/> ~ The carpals on the radius side of the hand are often more affected than the ulnar side, with the trapezium often described as being at the center of osteoarthritic changes <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+    }
+  }
+},
+"No" : {
+  "diagnosis" : "Unknown",
+  "description" : "Check for Additional Symptoms"
+}
+}
+},
+"Erosive Lesions" : {
+  "Is it combined with sacroiliitis and spinal ankylosis" : {
+    "Yes" : {
+      "diagnosis" : "Psoriatic Arthropathy",
+      "description" : "~ Both sexes are affected equally <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with skip lesions, erosions of dips of hands or feet with tufttal resoprtion in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar and fusion extends upwards with skip lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+    },
+    "No" : {
+      "diagnosis" : "Rheumatoid Arthritis",
+      "description" : "~ Affects women more than men <br/> ~ Occurs in the proximal joints of the hands and feet, appearing first in the feet and then in the hands <br/> ~ Can spread from the hands and feet to the wrist, elbow, hip, knee, ankle, acromioclavicular joint, and spine <br/> ~ Includes symmetrical marginal erosions of hands and feet, sparing of the sacroiliac joints, and no spinal ankylosis <br/> ~ If the hands and feet are not present, disease can't be diagnosed with any certainty"
+    }
+  }
+},
+"Premature Epiphyseal Closure/Enlarged Epiphyses" : {
+  "Is it combined with a shortened mandibular ramus with underdeveloped condyles?" : {
+    "Yes" : {
+              "diagnosis" : "Juvenile Idiopathic Arthritis",
+              "description" : "~ Refers to any arthritis developed before the age of 16 <br/> ~ Joints commonly affected: Knees, Wrists, Ankles, Cervical Vertebrae, and Mandible <br/> ~ Leads to the premature closure and subsequent enlargement of epiphyses"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+      
+    }
+  }
+},
+"Ankylosis" : {
+  "Is it in proximity to abscesses or fistulae?" : {
+    "Yes" : {
+    "diagnosis" : "Septic Arthritis",
+    "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+    
+  },
+  "No" : {
+    "diagnosis" : "Unknown",
+    "description" : "Check for Additional Symptoms"
+  }
+}
+}
+}
+},
+"Hips" : {
+  "What symptoms are present?" : {
+    "Eburnation" : {
+      "diagnosis" : "Osteoarthritis of the Hip",
+      "description" : " ~ More common in females <br/> ~ Eburnation is most common on superior pole, less common on medial pole, and very uncommon on axial pole <br/> ~ New bone formation may be present on femoral head or the rim of the fovea <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+    },
+    "Marginal Osteophytes" : {
+      "Is it combined with eburnation, new bone formation, or pitting?" : {
+        "Yes" : {
+          "diagnosis" : "Osteoarthritis of the Hip",
+          "description" : " ~ More common in females <br/> ~ Eburnation is most common on superior pole, less common on medial pole, and very uncommon on axial pole <br/> ~ New bone formation may be present on femoral head or the rim of the fovea <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : { 
+          "diagnosis" : "Unknown",
+    "description" : "Check for Additional Symptoms"
+      }
+    }
+  },
+  "New Bone Formation" : {
+    "Is it combined with sacroiliitis, spinal ankylosis, and erosive lesions on the hand?" : {
+      "Yes" : {
+        "diagnosis" : "Septic Arthritis",
+        "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+      },
+      "No" : {
+        "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+          "Yes" : {
+          "diagnosis" : "Osteoarthritis of the Hip",
+          "description" : " ~ More common in females <br/> ~ Eburnation is most common on superior pole, less common on medial pole, and very uncommon on axial pole <br/> ~ New bone formation may be present on femoral head or the rim of the fovea <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : { 
+          "diagnosis" : "Unknown",
+    "description" : "Check for Additional Symptoms"
+        }
+      }
+    }
+  }
+  },
+  "Pitting" : {
+    "Is it combined with eburnation, new bone formation, or pitting?" : {
+      "Yes" : {
+          "diagnosis" : "Osteoarthritis of the Hip",
+          "description" : " ~ More common in females <br/> ~ Eburnation is most common on superior pole, less common on medial pole, and very uncommon on axial pole <br/> ~ New bone formation may be present on femoral head or the rim of the fovea <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : { 
+          "diagnosis" : "Unknown",
+    "description" : "Check for Additional Symptoms"
+    }
+  }
+},
+"Subchondral Bone Defect" : {
+  "diagnosis" : "Osteochondritis Dissecans",
+    "description" : " ~ Defect in subchondral bone will generally march its articularing partner <br/> ~ Peak age of onset is between 15 and 20 <br/> ~ More common in males <br/> ~ Most common sites are the distal medial femoral condyle, the humeral compartment of the humeroradial joint, and on the dome of the talus <br/> ~ Occurs only on convex joint surfaces; if it is on a concave surface, it is referred to as osteochondritis non-dissecans" 
+},
+"Bone Resorption" : {
+  "Is it combined with ankylosis?" : {
+    "Yes" : {
+      "diagnosis" : "Neuropathic Arthropathy",
+          "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+    },
+    "No" : {
+      "diagnosis" : "Unknown",
+    "description" : "Check for Additional Symptoms"
+    }
+  }
+},
+"Bony Entheses" : {
+  "Is there continuous fusion on at least four vertebrae along the anterolateral surface?" : {
+    "Yes" : {
+      "diagnosis" :
+							"Diffuse Idiopathic Skeletal Hyperostosis",
+							"description" : "~ Includes fusion along at least 4 continuous thoracic vertebrae on the anterolateral surface that takes on a flowing, melted, candlewax appearance <br/> ~ Space between vertebral discs is preserved <br/> ~ Can also include bony entheses, or muscular attachments on the ischial tuberosity, iliac crest, pubic symphysis, trochanters, patella, femoral linea aspera, Achilles tendon, and calcaneus"
+    },
+    "No" : {
+      "diagnosis" : "Unknown",
+    "description" : "Check for Additional Symptoms"
+    }
+  }
+},
+"Sacroiliitis" : {
+  "Is it in proximity to abscesses or fistulae?" : {
+    "Yes" : {
+      "diagnosis" : "Septic Arthritis",
+      "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+    },
+    "No" : {
+      "Is it combined with spinal ankylosis?" : {
+        "Yes" : {
+          "Are there 'skip' lesions on the spine?" : {
+            "Yes" : {
+              "Is it combined with erosive lesions in the hands or feet?" : {
+                "Yes" : {
+                  "Is it combined with extreme resorption of the hand phalanges?" : {
+                    "Yes" : {
+                      "diagnosis" : "Psoriatic Arthropathy",
+                      "description" : "~ Both sexes are affected equally <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with skip lesions, erosions of dips of hands or feet with tufttal resoprtion in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar and fusion extends upwards with skip lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+                    },
+                    "No" : {
+                      "diagnosis" :
+                              "Reactive Spondyloarthropathy",
+                              "description" : "~ 90% of affected individuals are males <br/> ~ Primarily affects the lower limb <br/> Most common precipitating event is an infection with campylobacter, chlamydia, clostridium, salmonella, shigella, or yersinia species <br/> ~ Includes asymmetrical fusion of one or both sacroiliac joints, spinal fusion with paravertebral bridging and 'skip' lesions, asymmetric erosions of small joints of the feet, and possible proliferation of new bone <br/> ~ Calcaneal spurs and new bone formation on the Achilles tendon insertion are common"
+                    }
+                  }
+                },
+                "No" : {
+                  "diagnosis" : "Unknown",
+                  "description" : "Check for Additional Symptoms"
+                }
+              }
+            },
+            "No" : {
+              "diagnosis" :
+              "Ankylosing Spondylitis (or Enteropathic Arthropathy)",
+              "description" : "~ Also referred to as Bechterew's disease, HLA-27 Spondyloarthropathy, Marie-Strumpell disease, bamboo spine, poker spine, Ankylopoietic Spondylitis, and Rheumatoid Spondylitis <br/> ~ More severe in males <br/> ~ Affects more males than females <br/> ~ Symmetrical pathological changes <br/> ~ Vertebral ligaments and both sacroiliac joints become fused and ossify <br/> ~ Vertebral bodies become 'squared' <br/> ~ Spinal fusion begins in the lower lumbar region and progresses upwards with no spared vertebrae, or no 'skip' lesions"
+            }
+          }
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+                  "description" : "Check for Additional Symptoms"
+        }
+      }
+    }
+  }
+}
+}
+},
+"Knee" : {
+  "What symptoms are present?" : {
+    "Premature Epiphyseal Closure/Enlarged Epiphyses" : {
+      "Is it combined with a short mandibular ramus with underdeveloped condyles?" : {
+        "Yes" : {
+          "diagnosis" : "Juvenile Idiopathic Arthritis",
+              "description" : "~ Refers to any arthritis developed before the age of 16 <br/> ~ Joints commonly affected: Knees, Wrists, Ankles, Cervical Vertebrae, and Mandible <br/> ~ Leads to the premature closure and subsequent enlargement of epiphyses"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+        }
+      }
+    },
+    "Ankylosis" :{
+      "Is it in proximity to abscesses or fistulae?" : {
+        "Yes" : {
+          "diagnosis" : "Septic Arthritis",
+          "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+        },
+        "No" : {
+          "Is it combined with extensive bone resorption?" : {
+            "Yes" : {
+              "diagnosis" : "Neuropathic Arthropathy",
+              "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        }
+      }
+    },
+    "Bone Resorption" : {
+      "Is it combined with ankylosis?" : {
+        "Yes" : {
+              "diagnosis" : "Neuropathic Arthropathy",
+              "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+        }
+      }
+    },
+    "Erosive Lesions" : {
+      "Is it combined with sacroiliitis, spinal ankylosis, and erosive lesions on the feet?" : {
+        "Yes" : {
+          "diagnosis" :
+          "Reactive Spondyloarthropathy",
+          "description" : "~ 90% of affected individuals are males <br/> ~ Primarily affects the lower limb <br/> Most common precipitating event is an infection with campylobacter, chlamydia, clostridium, salmonella, shigella, or yersinia species <br/> ~ Includes asymmetrical fusion of one or both sacroiliac joints, spinal fusion with paravertebral bridging and 'skip' lesions, asymmetric erosions of small joints of the feet, and possible proliferation of new bone <br/> ~ Calcaneal spurs and new bone formation on the Achilles tendon insertion are common"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+        }
+      }
+    },
+    "Enthesophytes/Bony Entheses" : {
+      "Is it combined with spinal ankylosis?" :{
+        "Yes" : {
+          "Is the spinal fusion limited to the anterolateral aspect of the vertebral bodies?" : {
+            "Yes" : {
+              "diagnosis" :
+							"Diffuse Idiopathic Skeletal Hyperostosis",
+							"description" : "~ Includes fusion along at least 4 continuous thoracic vertebrae on the anterolateral surface that takes on a flowing, melted, candlewax appearance <br/> ~ Space between vertebral discs is preserved <br/> ~ Can also include bony entheses, or muscular attachments on the ischial tuberosity, iliac crest, pubic symphysis, trochanters, patella, femoral linea aspera, Achilles tendon, and calcaneus"
+            },
+            "No" : {
+              "Is it combined with sacroiliitis, spinal ankylosis with 'skip' lesions, and erosive lesions to the feet?" : {
+                "Yes" : {
+                  "diagnosis" :
+                  "Reactive Spondyloarthropathy",
+                  "description" : "~ 90% of affected individuals are males <br/> ~ Primarily affects the lower limb <br/> Most common precipitating event is an infection with campylobacter, chlamydia, clostridium, salmonella, shigella, or yersinia species <br/> ~ Includes asymmetrical fusion of one or both sacroiliac joints, spinal fusion with paravertebral bridging and 'skip' lesions, asymmetric erosions of small joints of the feet, and possible proliferation of new bone <br/> ~ Calcaneal spurs and new bone formation on the Achilles tendon insertion are common"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+                }
+              }
+            }
+          }
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+        }
+      }
+    },
+    "'Scooped-Out' Lytic Lesions" : {
+      "Is it combined with 'scooped-out' lytic lesions on the 1st metatarsal-phalangeal joint or other interphalangeal joints?" : {
+        "Yes" : {
+          "diagnosis" : "Gout",
+          "description" : " ~ Identified by periarticular, scooped-out, discrete lytic lesions with overhanging, sharply defined edges, known as a Martel hook <br/> ~ Usually only one joint is involved, either the first metatarsal-phalangeal joint or an interphalangeal joint <br/> ~ The knee can also be affected, but it is uncommon"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+        }
+      }
+    },
+    "Subchondral Bone Defect" :{
+      "diagnosis" : "Osteochondritis Dissecans",
+      "description" : " ~ Defect in subchondral bone will generally march its articularing partner <br/> ~ Peak age of onset is between 15 and 20 <br/> ~ More common in males <br/> ~ Most common sites are the distal medial femoral condyle, the humeral compartment of the humeroradial joint, and on the dome of the talus <br/> ~ Occurs only on convex joint surfaces; if it is on a concave surface, it is referred to as osteochondritis non-dissecans"
+    },
+    "Eburnation" : {
+      "diagnosis" : "Osteoarthritis of the Knee",
+          "description" : " ~ Patellofemoral joint is the most commonly affected site followed by the lateral and medial tibiofemoral joints respectively <br/> ~ Females are more affected than males <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+    },
+    "Marginal Osteophytes" : {
+      "Is it combined with eburnation, new bone formation, or pitting?" : {
+        "Yes" : {
+          "diagnosis" : "Osteoarthritis of the Knee",
+          "description" : " ~ Patellofemoral joint is the most commonly affected site followed by the lateral and medial tibiofemoral joints respectively <br/> ~ Females are more affected than males <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+        }
+      }
+    },
+    "New Bone Formation" : {
+      "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+        "Yes": {
+          "diagnosis" : "Osteoarthritis of the Knee",
+          "description" : " ~ Patellofemoral joint is the most commonly affected site followed by the lateral and medial tibiofemoral joints respectively <br/> ~ Females are more affected than males <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+        }
+      }
+    },
+    "Pitting" : {
+      "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+        "Yes": {
+          "diagnosis" : "Osteoarthritis of the Knee",
+          "description" : " ~ Patellofemoral joint is the most commonly affected site followed by the lateral and medial tibiofemoral joints respectively <br/> ~ Females are more affected than males <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+      }
+    }
+  }
+}
+},
+"AnkleFoot" : {
+  "What symptoms are present?" : {
+    "Erosive Lesions" : {
+      "Is it combined with sacroiliitis?" : {
+        "Yes" : {
+          "Do the erosive lesions cause shortening of the phalanges?" : {
+            "Yes" : {
+              "diagnosis" : "Psoriatic Arthropathy",
+                      "description" : "~ Both sexes are affected equally <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with skip lesions, erosions of dips of hands or feet with tufttal resoprtion in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar and fusion extends upwards with skip lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+            },
+            "No" : {
+              "Is there new bone formation or bony entheses?" : {
+                "Yes" : {
+                  "diagnosis" :
+                  "Reactive Spondyloarthropathy",
+                  "description" : "~ 90% of affected individuals are males <br/> ~ Primarily affects the lower limb <br/> Most common precipitating event is an infection with campylobacter, chlamydia, clostridium, salmonella, shigella, or yersinia species <br/> ~ Includes asymmetrical fusion of one or both sacroiliac joints, spinal fusion with paravertebral bridging and 'skip' lesions, asymmetric erosions of small joints of the feet, and possible proliferation of new bone <br/> ~ Calcaneal spurs and new bone formation on the Achilles tendon insertion are common"
+                },
+                "No" : {
+                  "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+                }
+              }
+            }
+          }
+        },
+        "No" : {
+          "Are there symmetrical erosions?" : {
+            "Yes" : {
+              "diagnosis" : "Rheumatoid Arthritis",
+      "description" : "~ Affects women more than men <br/> ~ Occurs in the proximal joints of the hands and feet, appearing first in the feet and then in the hands <br/> ~ Can spread from the hands and feet to the wrist, elbow, hip, knee, ankle, acromioclavicular joint, and spine <br/> ~ Includes symmetrical marginal erosions of hands and feet, sparing of the sacroiliac joints, and no spinal ankylosis <br/> ~ If the hands and feet are not present, disease can't be diagnosed with any certainty"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+            }
+          }
+        }
+      }
+    },
+    "Ankylosis" : {
+      "Is it in proximity to abscesses or fistulae?" : {
+        "Yes" : {
+          "diagnosis" : "Septic Arthritis",
+          "description" : "~ Also referred to as infectious or pyogenic arthritis <br/> ~ Caused by an infection spreading to a joint by one of four pathways: <br/> 1. Through the blood <br/> 2. Direct spread to adjacent soft tissues (such as adjacent osteomyelitis) <br/> 3. Direct implantation caused by trauma that breaches the joint capsule and introduces infection <br/> 4. Post-operative development of infection introduced during surgery <br/> ~ Affects all ages; 1/3 of all septic arthritis cases are juveniles, and most of which are less than 3 years of age due to increased blood flow and vascularization of joints <br/> ~ Multiple risk factors <br/> * Clinically, it is considered to be an aspect of a larger infectious diagnosis"
+        },
+        "No" : {
+          "Is there bone resorption present?" : {
+            "Yes" : {
+              "diagnosis" : "Neuropathic Arthropathy",
+              "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+            },
+            "No" : {
+              "Is it combined with erosive lesions on the hands or feet, sacroiliitis, or spinal ankylosis?" : {
+                "Yes" : {
+                  "diagnosis" : "Psoriatic Arthropathy",
+                      "description" : "~ Both sexes are affected equally <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with skip lesions, erosions of dips of hands or feet with tufttal resoprtion in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar and fusion extends upwards with skip lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+                },
+                "No" : {
+                  "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "New Bone Formation" : {
+      "Is it combined with sacroiliitis?" : {
+        "Yes" : {
+          "diagnosis" : "Psoriatic Arthropathy",
+                      "description" : "~ Both sexes are affected equally <br/> ~ Occurs in the distal interphalangeal joints of the hand, the sacroiliac joints, and the spine <br/> ~ Includes sacroiliitis, spinal fusion with skip lesions, erosions of dips of hands or feet with tufttal resoprtion in hands that lead to shortened phalanges <br/> ~ There may also be bony ankylosis, proliferation of new bone, and the appearance of 'cup and pencil' sign on x-ray <br/> ~ Changes in the spine start in the lower thoracic and upper lumbar and fusion extends upwards with skip lesions <br/> ~ Cervical vertebrae will have many erosions, such as the erosion of the odontoid peg, subluxation of atlanto-axial joint, and ankylosis"
+        },
+        "No" : {
+          "Is it combined with symmetrical erosive lesions to the feet?" : {
+            "Yes" : {
+              "diagnosis" :
+                  "Reactive Spondyloarthropathy",
+                  "description" : "~ 90% of affected individuals are males <br/> ~ Primarily affects the lower limb <br/> Most common precipitating event is an infection with campylobacter, chlamydia, clostridium, salmonella, shigella, or yersinia species <br/> ~ Includes asymmetrical fusion of one or both sacroiliac joints, spinal fusion with paravertebral bridging and 'skip' lesions, asymmetric erosions of small joints of the feet, and possible proliferation of new bone <br/> ~ Calcaneal spurs and new bone formation on the Achilles tendon insertion are common"
+            },
+            "No" : {
+              "Is it combined with eburnation, marginal osteophytes, or pitting?" : {
+                "Yes" : {
+                  "Is it located on the talo-navicular joint?" : {
+                    "Yes" : {
+                      "diagnosis" : "Osteoarthritis of the Talo-Navicular Joint",
+                      "description" : " ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                    },
+                    "No" : {
+                      "diagnosis" : "Osteoarthritis of the Ankle",
+                      "description" : " ~ If no trauma present, then osteoarthritis at this joint is extremely uncommon <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                    }
+                  }
+                },
+                "No" : {
+                  "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Premature Epiphyseal Closure/Enlarged Epiphyses" : {
+      "Is it combined with a short mandibular ramus with underdeveloped condyles?" : {
+        "Yes" : {
+          "diagnosis" : "Juvenile Idiopathic Arthritis",
+              "description" : "~ Refers to any arthritis developed before the age of 16 <br/> ~ Joints commonly affected: Knees, Wrists, Ankles, Cervical Vertebrae, and Mandible <br/> ~ Leads to the premature closure and subsequent enlargement of epiphyses"
+            },
+            "No" : {
+              "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+    }
+  }
+},
+"Bone Resorption" : {
+  "Is it combined with ankylosis?" : {
+    "Yes" : {
+      "diagnosis" : "Neuropathic Arthropathy",
+              "description" : " ~ Secondary occurrance due to tabes dorsalis (late manifestation of neurosyphilis), syringomyelia (spinal cord disturbance), diabetic neuropathy, and traumatic nerve damage <br/> ~ Most common joint affected is the knee, followed by hip, shoulder, ankle, tarsals, and elbow <br/> ~ Also referred to as Charcot's joint <br/> ~ Includes extreme ankylosis, extensive bone resoprtion, superolateral subluxation of the hip, and osseous debris in the joint"
+    },
+    "No": {
+      "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+    }
+  }
+},
+"Enthesophytes/Bony Entheses" : {
+  "Is it combined with spinal fusion limited to the lateroanterior aspect?" : {
+    "Yes" : {
+      "diagnosis" :
+							"Diffuse Idiopathic Skeletal Hyperostosis",
+							"description" : "~ Includes fusion along at least 4 continuous thoracic vertebrae on the anterolateral surface that takes on a flowing, melted, candlewax appearance <br/> ~ Space between vertebral discs is preserved <br/> ~ Can also include bony entheses, or muscular attachments on the ischial tuberosity, iliac crest, pubic symphysis, trochanters, patella, femoral linea aspera, Achilles tendon, and calcaneus"
+    },
+    "No" : {
+      "Is it combined with symmetrical erosive lesions to the feet?" : {
+        "Yes" : {
+          "diagnosis" :
+                  "Reactive Spondyloarthropathy",
+                  "description" : "~ 90% of affected individuals are males <br/> ~ Primarily affects the lower limb <br/> Most common precipitating event is an infection with campylobacter, chlamydia, clostridium, salmonella, shigella, or yersinia species <br/> ~ Includes asymmetrical fusion of one or both sacroiliac joints, spinal fusion with paravertebral bridging and 'skip' lesions, asymmetric erosions of small joints of the feet, and possible proliferation of new bone <br/> ~ Calcaneal spurs and new bone formation on the Achilles tendon insertion are common"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+        }
+      }
+    }
+  }
+},
+"Subchondral Bone Defect" : {
+  "diagnosis" : "Osteochondritis Dissecans",
+      "description" : " ~ Defect in subchondral bone will generally march its articularing partner <br/> ~ Peak age of onset is between 15 and 20 <br/> ~ More common in males <br/> ~ Most common sites are the distal medial femoral condyle, the humeral compartment of the humeroradial joint, and on the dome of the talus <br/> ~ Occurs only on convex joint surfaces; if it is on a concave surface, it is referred to as osteochondritis non-dissecans"
+},
+"'Scooped-Out' Lytic Lesions" : {
+  "Is it combined with 'scooped-out' lytic lesions on the 1st metatarsal-phalangeal joint or other interphalangeal joints?" : {
+        "Yes" : {
+          "diagnosis" : "Gout",
+          "description" : " ~ Identified by periarticular, scooped-out, discrete lytic lesions with overhanging, sharply defined edges, known as a Martel hook <br/> ~ Usually only one joint is involved, either the first metatarsal-phalangeal joint or an interphalangeal joint <br/> ~ The knee can also be affected, but it is uncommon"
+        },
+        "No" : {
+          "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+}
+}
+},
+"Eburnation" : {
+  "Is it located on the talo-navicular joint?" : {
+    "Yes" : {
+      "diagnosis" : "Osteoarthritis of the Talo-Navicular Joint",
+                      "description" : " ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                    },
+                    "No" : {
+                      "diagnosis" : "Osteoarthritis of the Ankle",
+                      "description" : " ~ If no trauma present, then osteoarthritis at this joint is extremely uncommon <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+    }
+  }
+},
+"Marginal Osteophytes" : {
+  "Is it combined with eburnation, new bone formation, or pitting?" : {
+    "Yes" : {
+      "Is it located on the talo-navicular joint?" : {
+      "Yes" : {
+      "diagnosis" : "Osteoarthritis of the Talo-Navicular Joint",
+                      "description" : " ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                    },
+                    "No" : {
+                      "diagnosis" : "Osteoarthritis of the Ankle",
+                      "description" : " ~ If no trauma present, then osteoarthritis at this joint is extremely uncommon <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+    }
+  }
+},
+"No" : {
+  "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+}
+}
+},
+"Pitting" : {
+  "Is it combined with eburnation, marginal osteophytes, or new bone formation?" : {
+    "Yes" : {
+      "Is it located on the talo-navicular joint?" : {
+      "Yes" : {
+      "diagnosis" : "Osteoarthritis of the Talo-Navicular Joint",
+                      "description" : " ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+                    },
+                    "No" : {
+                      "diagnosis" : "Osteoarthritis of the Ankle",
+                      "description" : " ~ If no trauma present, then osteoarthritis at this joint is extremely uncommon <br/> ~ Must have eburnation or at least two other symptoms (marginal osteophytes, new bone formation, or pitting) to be osteoarthritis at this joint"
+    }
+  }
+},
+"No" : {
+  "diagnosis" : "Unknown",
+              "description" : "Check for Additional Symptoms"
+}
+}
+}
+}
+}
+}
