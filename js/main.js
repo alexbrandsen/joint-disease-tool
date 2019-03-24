@@ -42,9 +42,8 @@ $('area').click(function(){
 		path.push(question);
 		
 		answers = decisionTree[skelly_location][question];
-		console.log(answers);
 		for (var i in answers) {
-			button = '<button data:key="'+i+'">'+i+'</button>';
+			button = '<button>'+i+'</button>';
 			$('#options').append(button);
 		}
 		buttonify();
@@ -52,11 +51,59 @@ $('area').click(function(){
 	}
 });
 
+// function to transform description to ul/li
+function listify(input){
+	output = input.replace(/~/g,'<li>').replace(/<br\/>/g,'</li>');
+	output = '<ul>'+output+'</li></ul>';
+	return output;
+}
+
 // answer clicks
 function answerClicky(){
 	$('#options button').click(function(){
-		console.log('asdf');
+		$('#options').html(''); // empty options
+		
+		answer = $(this).html();
+		path.push(answer);
+		
+		tempTree = decisionTree[skelly_location];
+		path.forEach(function(element) { // this goes through the path to the next question
+			tempTree = tempTree[element]; 
+		});
+		
+		question = Object.keys(tempTree)[0];
+		if(question == 'diagnosis'){ // end of tree reached, display diagnosis
+			$('#symptoms').removeClass('active');
+			$('#conditions').addClass('active');
+			$('#questions').html('<h2>Most likely differential diagnosis is:</h2><div class="diagnosis">'+tempTree['diagnosis']+'</div><div class="description">'+listify(tempTree['description'])+'</div><button class="reset-btn" onclick="location.reload();">Reset Symptom Checker</button> '); 
+		}
+		else {
+			$('#options').append('<h3>'+question+'</h3>');
+			path.push(question);
+			
+			answers = tempTree[question];
+			for (var i in answers) {
+				button = '<button>'+i+'</button>';
+				$('#options').append(button);
+			}
+			buttonify();
+			answerClicky();
+			
+		}
 	});
 }
 
+// popups
+$('#contact-link').click(function(e){
+	e.preventDefault();
+	$( "#contact" ).dialog({
+		modal: true // Freeze the background behind the overlay
+	});
+});
+$('#additional-link').click(function(e){
+	e.preventDefault();
+	$( "#additional" ).dialog({
+		modal: true // Freeze the background behind the overlay
+	});
+});
 

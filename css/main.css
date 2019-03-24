@@ -275,7 +275,23 @@ button.halfsize:first-child {
 	min-height:55px;
 }
 
-
+.diagnosis {
+	border:1px solid #334d4d;
+	border-radius:10px;
+	padding:5px 10px;
+	margin-bottom:20px;
+	text-align:center;
+	font-weight:bold;
+}
+.description {
+	
+}
+.reset-btn {
+	width:auto;
+	background:#334d4d;
+	color:white;
+	margin-top:20px;
+}
 
 
 #footer {

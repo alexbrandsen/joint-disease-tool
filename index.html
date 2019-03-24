@@ -26,8 +26,8 @@
 		<h1>Paleopathology Symptom Checker</h1>
 		<div id="menu">
 			<p>
-				<a href="/">Home</a>
-				<a href="">Contact</a> <!-- TODO popup -->
+				<a href=""  onclick="location.reload();">Home</a>
+				<a href="" id="contact-link">Contact</a>
 			</p>
 		</div>
     </div>
@@ -104,9 +104,9 @@
 	<div id="footer">
 		<div class="wrapper">
 			<p><strong>Identify possible pathological conditions related to identified skeletal lesions.</strong></p>
-			<p>This tool does not provide definitive diagnoses. <a href="">See additional information</a>. </p> <!-- TODO popup -->
+			<p>This tool does not provide definitive diagnoses. <a href="" id="additional-link">See additional information</a>. </p> <!-- TODO popup -->
 		</div>
-		<p id="freepik"><a href="https://www.freepik.com/free-photos-vectors/hand">Skeleton vector created by freepik - www.freepik.com</a></p>
+		<p id="freepik"><a href="https://www.freepik.com/free-photos-vectors/hand" target="_blank">Skeleton vector created by freepik - www.freepik.com</a></p>
 
     </div>
     
@@ -116,11 +116,12 @@
 
     
     <!-- hidden elements -->
-    
-    <div id="darkness"></div>
-    <div id="dialog" title="Resultaat">
-        <p></p>
-    </div>
+    <div id="contact" title="Contact" class="hidden">
+		<p>Contact info goes here</p>
+	</div>
+    <div id="additional" title="Additional Information" class="hidden">
+		<p>Additional info goes here</p>
+	</div>
 
     <!-- scripts -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
